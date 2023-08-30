@@ -2,6 +2,8 @@
 
 Proyecto OXYGENShop es un proyecto de programación enfocado a la sintáxis semántica en HTML, la utilización del preprocesador SASS para generar el código CSS y el uso de la metodología BEM a la hora de nombrar las clases.
 
+(Es la primera parte de un 'Proyecto doble'. Se ha clonado toda la programación anterior a la segunda parte del proyecto en este nuevo repositorio para dejar constancia de cómo se veía el resultado final antes de [implementar JavaScript en la página](https://github.com/MarcoNobody1/Proyecto-2))
+
 ## Objetivo del Proyecto
 
 El objetivo del proyecto es demostrar los conocimientos sobre los lenguajes de programación y metodologías mencionadas anteriormente, a la vez que se siguen unos requisitos para duplicar el diseño de una página web responsive. Esta debe funcionar acorde a  la anchura de todos los dispositivos utilizando media queries para obtener un resultado limpio y ordenado.
