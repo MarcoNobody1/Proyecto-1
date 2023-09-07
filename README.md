@@ -75,6 +75,7 @@ Es por el simple << disfrute del developer >>.
 #### HTML
 
 * Se comprueban, se corrigen y se cierran todas las etiquetas que quedaban sin cerrar.
+    ##### Sintaxis:
 * Se corrigen errores de sintaxis en el código **HTML**.
 * Se modifica sintaxis del header: se añade etiqueta de cabecera al título.
 * Se modifica sintaxis de la foto de fondo: se quitan las etiquetas de _figure_.
